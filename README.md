@@ -9,21 +9,18 @@ KMeans clustering applied to group customers based on purchasing behavior.
 **Task 4: Movie Rating Prediction**  
 Recommendation system using collaborative filtering to predict user ratings for unseen movies.  
 
----
 
-## 🛠 Tools & Libraries Used  
+##  Tools & Libraries Used  
 - Python  
 - Pandas, NumPy, Matplotlib, Seaborn  
 - Scikit-Learn  
 
----
 
-## 📂 Files in Repository  
+##  Files in Repository  
 - `task-03-arch-tech.ipynb
 - `task-04-arch-tech.ipynb
 
----
 
-## 👩‍💻 Author  
+##  Author  
 **Zonaira Tariq**  
 BS Artificial Intelligence – PAF-IAST  
