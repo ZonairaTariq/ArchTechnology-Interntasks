@@ -19,8 +19,8 @@ Recommendation system using collaborative filtering to predict user ratings for 
 ---
 
 ## 📂 Files in Repository  
-- `task-03-arch-tech
-- `task-04-arch-tech
+- `task-03-arch-tech.ipynb
+- `task-04-arch-tech.ipynb
 
 ---
 
